@@ -1,6 +1,7 @@
 # Download Utils
 A simple downloading tool, written in kotlin.  
 Kotlin runtime libraries are included.  
+<!--
 Maven at https://covid-trump.github.io/io/github/teddyxlandlee/download-utils/  
 ```groovy
 repositories {
@@ -13,3 +14,4 @@ dependencies {
     implementation 'io.github.teddyxlandlee:download-utils:0.1.2'
 }
 ```
+Maven has not been fully initialized-->
